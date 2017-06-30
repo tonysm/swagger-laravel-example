@@ -13,3 +13,7 @@ php artisan serve
 ```
 
 After that, you can access [http://localhost:8000/api/docs](http://localhost:8000/api/docs).
+
+You shold see something like this:
+
+![Swagger UI](./resources/docs/swagger.png)
